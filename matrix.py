@@ -3,7 +3,6 @@
 Matrix-style falling characters effect for the terminal.
 Press Ctrl+C to stop.
 """
-import os
 import random
 import shutil
 import sys
