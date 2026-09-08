@@ -2,6 +2,10 @@
 
 A Matrix-style falling character effect for your terminal. Pure Python, no dependencies.
 
+
+<img width="1438" height="850" alt="image" src="https://github.com/user-attachments/assets/0093d809-82ed-4744-abf0-b009ab37977e" />
+
+
 ## Run it
 
 ```bash
